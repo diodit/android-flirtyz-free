@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Flirtyz</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_suggest">Suggest</string>
+    <string name="one">Category</string>
+    <string name="two">Favorite</string>
+    <string name="three">Recent</string>
+    <string name="title_activity_main">Flirtyz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="profile_name">Flirtyz Emojicons</string>
+    <string name="profile_email">contact@frlirtyz.com</string>
+
+    <string name="select_version">Please select version</string>
+    <string name="free_version"><u>Free</u></string>
+    <string name="unlocked_version"><u>Unlocked</u></string>
+    <string name="flirtyz_emojicons">Flirtyz Emojicons</string>
+
+    <string name="welcome_flirtyz_naughty">Flirtyz Naughty</string>
+    <string name="welcome_flirtyz_uncensored">Flirtyz Uncensored</string>
+    <string name="welcome_the_free_version">The Free Version</string>
+    <string name="welcome_the_xxx_version">XXX Version</string>
+    <string name="welcome_a_humble_request">A humble request: </string>
+    <string name="welcome_a_humble_request_description">Please don’t repurpose this PSD or its contents as your own. If you like it and use it, share about it. Most importantly, use it to pitch, design and build amazing application. If you would like to thank me, Please give us one share. </string>
+
+
+    <string name="title_activity_suggestion">Suggestion</string>
+    <string name="title_activity_favorite">Favorite</string>
+    <string name="title_activity_recent">Recent</string>
+    <string name="title_activity_download">Download</string>
+    <string name="title_activity_installation">Installation</string>
+    <string name="sugesstion_description">Have and idea for an awsome emoji? Tell us your thoughts below and have a chance to see your emoji added to our Flirtyz Family</string>
+    <string name="suggestion_idea_box">Idea Box</string>
+    <string name="suggestion_send">SEND</string>
+    <string name="suggetst_flirtyz">Suggest a Flirtyz</string>
+    <string name="send_to">Share Emoji to</string>
+    <string name="remove">Remove</string>
+    <string name="download_download">Download</string>
+    <string name="download_cancel">Cancel</string>
+    <string name="download_description">Do you want to download this application?It does not require any special access</string>
+
+</resources>

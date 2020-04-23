@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-flirtyz-free.iml" filepath="$PROJECT_DIR$/android-flirtyz-free.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-flirtyz-free-develop.iml" filepath="$PROJECT_DIR$/android-flirtyz-free-develop.iml" group="android-flirtyz-free-develop" />
+      <module fileurl="file://$PROJECT_DIR$/app/android-flirtyz-free-develop-app.iml" filepath="$PROJECT_DIR$/app/android-flirtyz-free-develop-app.iml" group="android-flirtyz-free-develop/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
